@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&display=swap');
+
 .App {
   text-align: center;
+  background-color: #8e6e53;
 }
 
 .App-logo {
@@ -14,15 +17,27 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #8e6e53;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: 'Bitter', serif;
 }
+.banner{
+  min-height:50vh;
+  background-image: url(/public/images/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
 
 .App-link {
   color: #61dafb;
