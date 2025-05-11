@@ -2,7 +2,8 @@
 
 A React-based restaurant search app that lets users find restaurants around the world using Yelp’s API. Users can filter results by best match, highest rated, or most reviewed.
 
-![Uploading Screenshot 2025-05-11 at 1.19.39 PM.png…]()
+<img width="1440" alt="Screenshot 2025-05-11 at 1 19 39 PM" src="https://github.com/user-attachments/assets/8edbb2cb-22ae-4365-93fc-6e2289865580" />
+
 
 
 ## How its Made:
